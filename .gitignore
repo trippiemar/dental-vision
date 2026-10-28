@@ -3,3 +3,11 @@ Dataset/
 *.zip
 .ipynb_checkpoints/
 __pycache__/
+df_semua_ambang6.csv
+data_bersih_ambang6.csv
+*.npy
+gabungan_ambang6.csv
+split_ambang6.csv
+.venv/
+kandidat_rb.csv
+torch_cache/
